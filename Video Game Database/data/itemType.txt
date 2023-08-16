@@ -1,0 +1,7 @@
+type
+sword
+sheild
+armor
+gloves
+boots
+helmet

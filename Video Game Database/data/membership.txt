@@ -1,0 +1,4 @@
+name	price
+silver	200
+gold	500
+platinum	1000

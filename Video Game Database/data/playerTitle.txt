@@ -1,0 +1,1001 @@
+player	title
+44	Organized
+75	Centralized
+74	knowledge base
+3	6th generation
+91	Innovative
+59	Open-source
+26	static
+27	access
+99	reciprocal
+3	hardware
+51	contextually-based
+72	background
+17	focus group
+44	grid-enabled
+53	forecast
+65	capacity
+46	concept
+67	policy
+63	artificial intelligence
+15	Re-contextualized
+22	neutral
+83	hub
+69	Team-oriented
+23	optimizing
+100	5th generation
+62	explicit
+44	object-oriented
+14	well-modulated
+72	Cloned
+84	open system
+28	migration
+28	secured line
+15	attitude
+10	demand-driven
+11	synergy
+12	Quality-focused
+62	asymmetric
+23	leading edge
+47	Multi-lateral
+13	model
+34	leading edge
+16	uniform
+92	toolset
+66	orchestration
+8	Devolved
+52	firmware
+64	hierarchy
+54	composite
+48	matrices
+94	portal
+86	upward-trending
+77	benchmark
+79	Re-contextualized
+88	task-force
+40	context-sensitive
+26	secured line
+1	eco-centric
+37	Diverse
+2	needs-based
+77	homogeneous
+5	attitude
+87	Open-source
+60	Adaptive
+100	fault-tolerant
+84	Phased
+32	24/7
+94	Visionary
+94	service-desk
+18	client-server
+27	motivating
+19	logistical
+39	homogeneous
+81	Synchronised
+53	user-facing
+43	matrices
+69	Focused
+87	encoding
+77	Right-sized
+26	projection
+83	Right-sized
+30	strategy
+62	access
+95	Programmable
+45	Seamless
+11	concept
+37	Graphical User Interface
+86	motivating
+70	service-desk
+34	Synchronised
+85	approach
+28	Extended
+5	interactive
+18	multi-state
+1	intermediate
+2	Decentralized
+3	database
+22	framework
+52	bi-directional
+95	Devolved
+52	Universal
+84	success
+6	Adaptive
+63	Multi-tiered
+13	matrices
+32	24 hour
+50	open architecture
+79	actuating
+7	needs-based
+53	Intuitive
+56	superstructure
+64	local area network
+74	Open-architected
+90	conglomeration
+91	data-warehouse
+84	focus group
+47	ability
+87	asynchronous
+15	success
+74	modular
+83	Reactive
+75	Grass-roots
+62	projection
+57	bottom-line
+91	Compatible
+24	model
+81	Streamlined
+85	Vision-oriented
+42	Up-sized
+43	client-server
+87	Business-focused
+25	interactive
+54	upward-trending
+45	Quality-focused
+32	architecture
+10	24/7
+82	global
+42	open architecture
+77	time-frame
+74	Cloned
+63	Function-based
+51	scalable
+100	help-desk
+88	user-facing
+14	paradigm
+33	24/7
+17	exuding
+26	system-worthy
+3	maximized
+91	Ameliorated
+20	approach
+60	upward-trending
+39	standardization
+58	Customizable
+22	well-modulated
+76	conglomeration
+73	Sharable
+35	responsive
+63	Phased
+72	Enterprise-wide
+64	Organic
+60	website
+65	didactic
+17	grid-enabled
+55	Up-sized
+76	hardware
+72	Mandatory
+65	help-desk
+82	intranet
+83	intangible
+11	bottom-line
+72	exuding
+57	cohesive
+45	high-level
+46	scalable
+98	application
+90	Polarised
+85	Organized
+72	intermediate
+44	adapter
+28	frame
+86	intranet
+93	Polarised
+7	Universal
+2	contextually-based
+33	Virtual
+85	methodology
+70	functionalities
+4	Horizontal
+28	systemic
+61	complexity
+90	bi-directional
+11	Diverse
+99	Enhanced
+68	Monitored
+61	regional
+98	mission-critical
+95	Visionary
+87	capability
+84	clear-thinking
+67	Realigned
+38	Profound
+82	didactic
+87	Versatile
+83	website
+14	Compatible
+81	internet solution
+53	dynamic
+12	Open-source
+97	Open-source
+2	strategy
+2	attitude
+68	analyzing
+4	parallelism
+70	complexity
+100	core
+68	De-engineered
+48	artificial intelligence
+75	Re-contextualized
+64	well-modulated
+51	global
+39	website
+35	Secured
+9	asynchronous
+7	real-time
+73	database
+87	Right-sized
+69	national
+65	Focused
+48	extranet
+82	grid-enabled
+59	structure
+41	contextually-based
+100	Phased
+28	Up-sized
+78	circuit
+29	projection
+71	intranet
+12	dynamic
+60	Enterprise-wide
+61	mobile
+76	De-engineered
+66	Front-line
+58	Organized
+85	Exclusive
+54	Centralized
+72	Balanced
+53	systematic
+30	Sharable
+50	coherent
+93	encompassing
+24	framework
+18	multi-state
+67	artificial intelligence
+87	Reduced
+8	Switchable
+17	maximized
+79	maximized
+60	modular
+24	responsive
+24	bi-directional
+36	attitude-oriented
+34	fault-tolerant
+27	Persistent
+51	Customizable
+54	analyzing
+25	Organized
+76	holistic
+60	strategy
+70	contextually-based
+86	Mandatory
+79	Cross-platform
+22	systematic
+82	global
+84	synergy
+47	toolset
+44	Monitored
+20	Synergized
+50	instruction set
+66	bifurcated
+31	Operative
+96	Configurable
+37	system engine
+73	synergy
+93	parallelism
+79	scalable
+98	Enhanced
+26	Pre-emptive
+6	conglomeration
+8	dedicated
+20	Devolved
+68	full-range
+83	application
+1	database
+91	multimedia
+54	forecast
+92	capacity
+54	workforce
+51	multi-state
+75	multimedia
+99	extranet
+16	Advanced
+63	logistical
+23	Advanced
+91	Intuitive
+20	local area network
+64	non-volatile
+8	framework
+9	De-engineered
+42	4th generation
+22	challenge
+51	firmware
+45	success
+75	Enhanced
+64	Face to face
+42	intermediate
+67	multi-state
+54	multi-state
+68	responsive
+90	reciprocal
+81	non-volatile
+13	Versatile
+45	matrices
+86	Optional
+37	system engine
+15	methodology
+68	neutral
+37	Managed
+50	moratorium
+100	24 hour
+79	algorithm
+16	Graphical User Interface
+32	multi-state
+42	database
+69	Switchable
+45	grid-enabled
+68	needs-based
+51	Upgradable
+83	instruction set
+61	open system
+1	Enterprise-wide
+90	Pre-emptive
+11	Robust
+87	methodical
+64	process improvement
+45	pricing structure
+32	conglomeration
+24	approach
+49	Versatile
+28	Devolved
+78	User-centric
+5	Down-sized
+50	encoding
+98	contingency
+8	encoding
+65	Multi-lateral
+59	zero tolerance
+45	encryption
+62	Triple-buffered
+14	policy
+22	next generation
+63	demand-driven
+76	uniform
+87	Adaptive
+82	non-volatile
+74	system engine
+36	flexibility
+45	Streamlined
+79	Graphic Interface
+99	Total
+18	homogeneous
+27	heuristic
+90	Future-proofed
+88	framework
+5	Future-proofed
+61	Fundamental
+14	solution-oriented
+36	service-desk
+32	Realigned
+38	budgetary management
+54	logistical
+86	non-volatile
+79	Open-architected
+17	strategy
+13	Fully-configurable
+94	high-level
+59	frame
+46	Focused
+85	encryption
+76	24/7
+86	hardware
+44	Cloned
+15	Reactive
+18	multi-state
+12	context-sensitive
+88	definition
+75	stable
+9	capacity
+29	bottom-line
+57	Proactive
+44	executive
+89	Profound
+73	Inverse
+75	well-modulated
+79	maximized
+84	analyzing
+35	fresh-thinking
+69	Implemented
+82	encompassing
+72	dynamic
+38	algorithm
+67	empowering
+39	info-mediaries
+29	next generation
+54	Virtual
+1	uniform
+58	multi-tasking
+34	complexity
+98	Stand-alone
+95	open architecture
+35	fresh-thinking
+1	alliance
+60	migration
+94	Proactive
+41	zero tolerance
+12	workforce
+38	alliance
+98	24/7
+45	reciprocal
+63	conglomeration
+10	website
+19	groupware
+20	Open-source
+1	challenge
+9	Customizable
+2	Cross-platform
+29	Innovative
+29	Graphic Interface
+51	utilisation
+71	functionalities
+3	moderator
+94	internet solution
+75	algorithm
+19	Multi-channelled
+16	Automated
+42	Enterprise-wide
+31	adapter
+39	functionalities
+6	matrix
+2	Graphical User Interface
+50	archive
+55	budgetary management
+2	budgetary management
+91	foreground
+93	uniform
+2	hierarchy
+97	24/7
+50	forecast
+4	structure
+25	multi-tasking
+75	responsive
+96	empowering
+23	process improvement
+71	incremental
+57	Front-line
+94	ability
+96	Graphic Interface
+86	eco-centric
+99	eco-centric
+99	Synergized
+42	systemic
+87	Seamless
+20	approach
+56	secondary
+17	fresh-thinking
+70	Expanded
+1	function
+95	systemic
+28	encryption
+56	internet solution
+15	responsive
+70	Universal
+56	Organized
+48	Synchronised
+92	Centralized
+83	core
+39	firmware
+10	logistical
+81	groupware
+69	user-facing
+45	Advanced
+79	circuit
+51	human-resource
+4	demand-driven
+91	empowering
+70	encompassing
+14	Ergonomic
+90	budgetary management
+64	matrices
+44	Programmable
+58	hub
+64	moratorium
+13	Open-source
+65	24/7
+72	instruction set
+22	Expanded
+73	leading edge
+16	regional
+98	contingency
+53	Intuitive
+98	portal
+33	empowering
+98	eco-centric
+18	Profound
+33	secured line
+88	Pre-emptive
+43	Graphic Interface
+79	Visionary
+61	Focused
+68	background
+9	Object-based
+99	zero administration
+30	Pre-emptive
+79	structure
+89	Ergonomic
+76	coherent
+67	matrices
+38	matrix
+96	adapter
+92	next generation
+5	4th generation
+27	attitude
+65	Organized
+30	Stand-alone
+48	monitoring
+67	emulation
+80	transitional
+42	coherent
+95	uniform
+41	workforce
+66	eco-centric
+53	Digitized
+21	Organic
+11	encompassing
+74	success
+71	reciprocal
+34	framework
+25	database
+24	fresh-thinking
+3	middleware
+24	circuit
+93	optimizing
+50	open architecture
+20	definition
+14	Adaptive
+52	emulation
+67	Enhanced
+34	intermediate
+54	Inverse
+79	policy
+17	fresh-thinking
+56	modular
+29	executive
+78	website
+87	ability
+34	client-server
+14	Re-contextualized
+100	Cloned
+11	tertiary
+50	framework
+88	demand-driven
+64	Object-based
+81	project
+54	mobile
+75	architecture
+39	Optimized
+37	bottom-line
+23	composite
+85	utilisation
+34	Quality-focused
+53	time-frame
+34	tangible
+76	client-driven
+96	array
+13	client-server
+25	open architecture
+52	Multi-tiered
+28	Persistent
+24	Decentralized
+37	hybrid
+54	dynamic
+73	Reactive
+19	solution-oriented
+69	database
+26	policy
+63	4th generation
+50	responsive
+65	disintermediate
+83	3rd generation
+5	Organized
+14	intermediate
+40	Phased
+88	extranet
+59	user-facing
+34	dynamic
+16	transitional
+31	project
+42	Synchronised
+60	dynamic
+96	Networked
+45	Compatible
+93	paradigm
+55	Assimilated
+10	adapter
+9	actuating
+11	Customer-focused
+66	zero tolerance
+68	Realigned
+28	dedicated
+19	Integrated
+51	bandwidth-monitored
+16	intranet
+84	homogeneous
+61	Function-based
+14	needs-based
+81	maximized
+46	optimal
+62	Re-contextualized
+87	Graphical User Interface
+88	mission-critical
+88	definition
+75	impactful
+69	Inverse
+42	Programmable
+43	website
+73	moderator
+40	bandwidth-monitored
+85	Vision-oriented
+31	hierarchy
+54	executive
+4	Fully-configurable
+67	encryption
+45	Organic
+41	Pre-emptive
+47	Exclusive
+73	product
+11	Reduced
+11	foreground
+81	paradigm
+14	multi-tasking
+22	success
+84	mobile
+74	Optimized
+75	Virtual
+66	value-added
+71	Quality-focused
+25	composite
+96	Proactive
+64	Synergized
+53	Programmable
+11	responsive
+27	instruction set
+6	Phased
+64	Front-line
+78	Programmable
+86	Managed
+10	Inverse
+79	static
+28	algorithm
+82	zero tolerance
+17	logistical
+52	toolset
+51	object-oriented
+92	leverage
+67	hardware
+17	asynchronous
+88	Self-enabling
+58	frame
+59	orchestration
+100	neutral
+25	static
+59	Organic
+47	portal
+25	Sharable
+28	challenge
+30	Graphical User Interface
+34	conglomeration
+13	demand-driven
+58	core
+70	Graphic Interface
+30	next generation
+65	utilisation
+87	Profound
+66	Operative
+37	user-facing
+25	demand-driven
+22	Multi-layered
+82	global
+34	Customizable
+53	contextually-based
+23	knowledge base
+54	instruction set
+59	high-level
+78	methodology
+72	bi-directional
+91	functionalities
+43	tangible
+81	challenge
+90	moratorium
+60	grid-enabled
+65	Upgradable
+4	leading edge
+47	heuristic
+66	zero tolerance
+53	hub
+36	Re-engineered
+72	leading edge
+26	Operative
+64	success
+27	scalable
+41	Cross-group
+16	Business-focused
+98	client-driven
+9	global
+58	Balanced
+75	challenge
+55	Pre-emptive
+15	Adaptive
+27	Devolved
+5	discrete
+53	open system
+34	Virtual
+69	web-enabled
+30	extranet
+36	forecast
+14	moratorium
+96	Ameliorated
+2	Graphic Interface
+21	modular
+97	stable
+11	software
+99	middleware
+49	zero tolerance
+33	structure
+38	projection
+94	protocol
+76	moderator
+13	4th generation
+2	Balanced
+40	Assimilated
+52	Expanded
+41	policy
+41	projection
+32	leverage
+67	cohesive
+48	Synchronised
+72	executive
+52	transitional
+43	Configurable
+99	conglomeration
+35	multi-state
+41	service-desk
+6	next generation
+64	Future-proofed
+48	application
+24	composite
+62	initiative
+97	24/7
+74	national
+16	circuit
+38	moderator
+82	uniform
+92	success
+52	architecture
+54	Inverse
+7	Persevering
+18	Open-architected
+29	complexity
+71	6th generation
+52	Digitized
+81	full-range
+59	core
+61	Progressive
+48	Streamlined
+18	User-centric
+73	architecture
+77	Networked
+82	moratorium
+76	help-desk
+98	Cloned
+91	homogeneous
+83	Sharable
+44	maximized
+92	Profound
+99	process improvement
+88	neutral
+17	conglomeration
+3	Optional
+31	Graphic Interface
+87	secured line
+43	architecture
+39	knowledge base
+79	Persevering
+88	emulation
+74	internet solution
+62	framework
+61	superstructure
+65	zero defect
+29	Stand-alone
+85	optimal
+98	Organized
+69	customer loyalty
+17	Advanced
+58	function
+70	local area network
+10	full-range
+63	Organized
+55	demand-driven
+2	dedicated
+81	fresh-thinking
+29	approach
+69	array
+1	Configurable
+83	well-modulated
+86	Secured
+84	system engine
+5	open system
+94	customer loyalty
+54	5th generation
+93	capacity
+81	Enhanced
+59	optimal
+40	Right-sized
+57	Intuitive
+31	non-volatile
+55	Cloned
+48	bottom-line
+39	optimal
+72	Synchronised
+30	strategy
+69	analyzing
+23	client-driven
+48	middleware
+94	encoding
+87	4th generation
+47	time-frame
+22	Robust
+53	Down-sized
+27	forecast
+63	open system
+85	Digitized
+46	time-frame
+27	hybrid
+51	Decentralized
+76	Stand-alone
+75	regional
+2	matrix
+54	5th generation
+80	full-range
+26	Mandatory
+98	Proactive
+77	exuding
+43	groupware
+7	context-sensitive
+48	middleware
+56	Proactive
+72	Profit-focused
+93	infrastructure
+51	core
+32	emulation
+62	projection
+84	Business-focused
+80	intranet
+74	motivating
+99	Assimilated
+16	Automated
+86	high-level
+61	impactful
+80	Realigned
+63	moderator
+39	upward-trending
+96	infrastructure
+73	standardization
+55	moratorium
+58	website
+17	knowledge user
+45	reciprocal
+11	non-volatile
+22	background
+58	methodology
+32	toolset
+69	Progressive
+6	orchestration
+72	firmware
+31	logistical
+20	conglomeration
+73	radical
+19	De-engineered
+52	eco-centric
+27	modular
+8	optimizing
+15	intranet
+21	architecture
+92	bandwidth-monitored
+64	benchmark
+61	upward-trending
+94	middleware
+61	projection
+72	reciprocal
+33	User-friendly
+47	Future-proofed
+94	circuit
+90	functionalities
+57	algorithm
+50	definition
+99	needs-based
+24	Balanced
+70	utilisation
+1	mobile
+93	product
+58	discrete
+3	object-oriented
+71	24/7
+82	service-desk
+32	non-volatile
+67	Proactive
+22	superstructure
+85	radical
+93	support
+79	Ergonomic
+3	eco-centric
+41	algorithm
+45	cohesive
+79	Expanded
+68	holistic
+57	encompassing
+34	Integrated
+88	process improvement
+53	archive
+72	flexibility
+17	didactic
+90	customer loyalty
+20	functionalities
+84	Synergized
+39	framework
+1	Open-architected
+32	mobile
+33	Front-line
+64	De-engineered
+14	middleware
+74	software
+90	project
+86	asymmetric
+78	Down-sized
+26	structure
+14	empowering
+80	archive
+17	Expanded
+10	Quality-focused
+50	bifurcated
+55	support
+58	web-enabled
+74	process improvement
+10	interface
+51	Fundamental
+31	task-force
+79	Reactive
+36	executive
+70	implementation
+16	knowledge user
+41	internet solution
+71	policy
+99	system engine
+84	access
+29	array
+80	capability
+52	intranet
+42	open architecture
+19	bifurcated
+97	database
+14	empowering
+33	matrices
+22	foreground
+30	content-based
+65	maximized
+8	capability
+94	asymmetric
+66	system engine
+14	superstructure
+14	demand-driven
+67	Cloned
+82	real-time
+4	User-centric
+82	motivating
+61	Exclusive
+75	Diverse
+21	circuit
+83	hub
+82	Organic
+73	analyzing
+43	hardware
